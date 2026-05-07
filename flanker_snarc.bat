@@ -3,6 +3,6 @@ if not exist "venv\" (
 )
 
 call venv\Scripts\activate
-python -m pip install expyriment requests
+python -m pip install expyriment
 
 python flanker_snarc.py
