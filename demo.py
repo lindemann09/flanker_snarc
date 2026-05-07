@@ -1,4 +1,0 @@
-
-import expyriment
-
-# Demo file
