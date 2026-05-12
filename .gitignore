@@ -4,3 +4,4 @@ events/
 data/
 uv.lock
 *.bkp
+*.pdf

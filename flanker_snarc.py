@@ -227,6 +227,7 @@ exp.data.add_variable_names(["choice_gonogo", "go_small", "vertical", "practice"
 
 for bl in exp.blocks:
     instruction_screen(exp, bl)
+    exp.data.save()
     for tr in bl.trials:
         do_trial(exp, bl, tr)
 
