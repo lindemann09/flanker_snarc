@@ -5,4 +5,4 @@ if not exist "venv\" (
 call venv\Scripts\activate
 python -m pip install expyriment
 
-python flanker_snarc.py
+python flanker_snarc2.py

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#v1.1
+#v2.0
 
 from expyriment import control, design, stimuli
 from expyriment.misc import constants

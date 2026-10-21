@@ -1,9 +1,10 @@
-import requests
 import os
 from datetime import datetime
 
-url = "https://raw.githubusercontent.com/lindemann09/flanker_snarc/refs/heads/main/"
-filename = "flanker_snarc.py"
+import requests
+
+url = "https://raw.githubusercontent.com/lindemann09/flanker_snarc/refs/heads/flanker2/"
+filename = "flanker_snarc2.py"
 
 response = requests.get(f"{url}{filename}")
 
