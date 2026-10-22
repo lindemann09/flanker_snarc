@@ -1,3 +1,1 @@
-call venv\Scripts\activate
-python -m pip install requests
-python update_exp.py
+..\myvenv\Scripts\python.exe update_exp.py

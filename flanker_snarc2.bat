@@ -1,8 +1,1 @@
-if not exist "venv\" (
-    python -m venv venv
-)
-
-call venv\Scripts\activate
-python -m pip install expyriment
-
-python flanker_snarc2.py
+..\myvenv\Scripts\python.exe flanker_snarc2.py

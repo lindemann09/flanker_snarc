@@ -10,8 +10,6 @@
 * Instructions screen can be used as a short break for the participants.
 
 
-
-
 ## Experimental design
 
 **Block-wise manipulated conditions** (8 blocks in total)
@@ -33,9 +31,6 @@ Each condition within blocks was repeated 4 times. That is, each block contained
 The order of trials within each block was randomized.
 
 
-
-
-
 ### Procedure of each trial
 
 
@@ -45,7 +40,4 @@ The order of trials within each block was randomized.
 | 2.  | Target               | max. 1500 ms   | number & arrows, ends with response |
 |     | Error feeback        | 3000 ms        | only if error occurred       |
 | 3.  | Inter-trial interval | 700 - 1200 ms | blank screen, random interval                     |
-
-
-
 
