@@ -1,4 +1,4 @@
-# Experimentor Guidelines
+# Flanker SNARC: Experimentor Guidelines
 
 ## Procedure
 
