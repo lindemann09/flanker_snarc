@@ -5,3 +5,5 @@ data/
 uv.lock
 *.bkp
 *.pdf
+README.pdf
+README.html
