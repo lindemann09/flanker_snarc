@@ -1,6 +1,16 @@
 # Flanker SNARC: Experimentor Guidelines
 
-## Procedure
+The paradigm used is called go/no-go task. That is, subject have to read the number and respond (go) or not respond (no-go): There are different blocks during the experiment. The blocks differ by two variations of the task:
+
+  * 2 Go condition:  respond to *small* or to *large* numbers
+  * 2 Type of response:
+    * response always by pressing *space bar* (**simple go-no/go task**) or
+    * by pressing the *arrow keys displayed* on the screen (**choice go-no/go task**)
+
+Which block is coming next will be indicated on the instruction screen before the block start: For example: "Response: UP or DOWN key as indicated by the arrows. Respond only if the number is SMALLER than 5"
+
+
+## General Procedure
 
 1. start the questionnaire (file `~QUESTIONNAIRE.html`) and
      * enter the subject id
@@ -13,39 +23,27 @@
      * Participants can start the experimental blocks by themselves with any key
      * Instructions screen can be used as a short break for the participants.
 
-## Instructions for the participants
+You can quit an experiment any time by pressing ESC (Escape). Sometimes you need to press ESC twice to quit the experiment.
 
-### Task type: Simple go/no-go task
+### Instructing participants for the 4 different task blocks
 
-If the instruction screen says: **Response: SPACE bar**
+1. *"You will see a digit in the centre of the screen. Your task is to decide whether the number is small or large than 5. In the next block your task is:"*
+2. Depending on the instruction screen:
+    *  *"If the number is SMALLER than 5, you have to press "SPACE". Otherwise, do not respond. The arrows displayed on the screen can be ignored."*
+    *  *"If the number is LARGER than 5, you have to press "SPACE". Otherwise, do not respond. The arrows displayed on the screen can be ignored."*
+    *  *If the number is SMALLER than 5, you have to press the ARROW KEY as  displayed on the screen.*
+    *  *If the number is LARGER than 5, you have to press the ARROW KEY as  displayed on the screen.*
+3. *"Please respond as quickly and accurately as possible."*
+4. *"We will first start with a short practice block to get you familiar with the task. If you have no further questions, press space bar to start the next block.*"
+
+**Important**: To start a new block where new instructions are needed, the experimenter has to press RETURN. The subject can not go on with space bar.
+
+
 
 ----
 
-*You will see a number in the center of the screen. Your task is to respond  ONLY, if the number is smaller (or large) than 5. Otherwise, you don't  respond.*
-
-*The response is to press the space bar. Please respond as quickly and accurately as possible.*
-
-*The presented other stimuli (arrows) are irrelevant and should be ignored.*
-
----
-
-
-
-### Choice go/no-go task
-
-If the instruction screen says: **Response: arrow key as indicated by the arrows.**
-
----
-
-*You will see a number in the center of the screen. Your task is to respond  ONLY, if the number is smaller (or large) than 5. Otherwise, you don't  respond.*
-
-*The response is to press the arrow key that is indicated by the arrows (left, right, up or down)*
-
-*Please respond as quickly and accurately as possible.*
-
----
-
 # Experiment Details
+
 ## Design
 
 **Block-wise manipulated conditions** (8 blocks in total)
