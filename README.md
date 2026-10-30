@@ -10,7 +10,7 @@ The paradigm used is called go/no-go task. That is, subject have to read the num
 Which block is coming next will be indicated on the instruction screen before the block start: For example: "Response: UP or DOWN key as indicated by the arrows. Respond only if the number is SMALLER than 5"
 
 
-## General Procedure
+### General Procedure
 
 1. start the questionnaire (file `~QUESTIONNAIRE.html`) and
      * enter the subject id
@@ -23,28 +23,29 @@ Which block is coming next will be indicated on the instruction screen before th
      * Participants can start the experimental blocks by themselves with any key
      * Instructions screen can be used as a short break for the participants.
 
-You can quit an experiment any time by pressing ESC (Escape). Sometimes you need to press ESC twice to quit the experiment.
+### Verbal Instructions
 
-### Instructing participants for the 4 different task blocks
+*"The experiment will take about 30 to 40 minutes and comprises of 4 blocks. Before each block there is a short practice block. You will be presented with a digit in the centre of the screen. Your task is to decide whether the number is small or large than 5."*
 
-1. *"You will see a digit in the centre of the screen. Your task is to decide whether the number is small or large than 5. In the next block your task is:"*
-2. Depending on the instruction screen:
+Instructions for the 4 different task blocks
+
+1. Depending on the instruction screen:
     *  *"If the number is SMALLER than 5, you have to press "SPACE". Otherwise, do not respond. The arrows displayed on the screen can be ignored."*
     *  *"If the number is LARGER than 5, you have to press "SPACE". Otherwise, do not respond. The arrows displayed on the screen can be ignored."*
     *  *If the number is SMALLER than 5, you have to press the ARROW KEY as  displayed on the screen.*
     *  *If the number is LARGER than 5, you have to press the ARROW KEY as  displayed on the screen.*
-3. *"Please respond as quickly and accurately as possible."*
-4. *"We will first start with a short practice block to get you familiar with the task. If you have no further questions, press space bar to start the next block.*"
+2. *"Please respond as quickly and accurately as possible."*
+3. *"We will first start with a short practice block to get you familiar with the task. If you have no further questions, press space bar to start the next block.*"
 
 **Important**: To start a new block where new instructions are needed, the experimenter has to press RETURN. The subject can not go on with space bar.
 
-
+You can quit an experiment any time by pressing ESC (Escape). Sometimes you need to press ESC twice to quit the experiment.
 
 ----
 
 # Experiment Details
 
-## Design
+### Design
 
 **Block-wise manipulated conditions** (8 blocks in total)
 
